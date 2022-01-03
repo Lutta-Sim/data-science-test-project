@@ -4,6 +4,8 @@ x = 45
 y = 65
 z = (x + y)^1/2
 print(z)
+print(x,y,z)
+
 
 
 
