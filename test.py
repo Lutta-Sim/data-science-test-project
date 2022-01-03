@@ -1,0 +1,3 @@
+print("GOOD DAY AUSTRALIA, HAPPY NU YEAR!")
+
+
