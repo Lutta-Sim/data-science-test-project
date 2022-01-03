@@ -9,9 +9,9 @@ print(x,y,z)
 
 
 
-def simiyu function()
+def function():
     pass
 
-def lutta function()
+def  function():
     pass
 
